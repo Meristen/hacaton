@@ -1,0 +1,10 @@
+.slider {
+  width: 40%;
+  background-color: rgb(27, 25, 25);
+  display: flex;
+  justify-content: start;
+  margin: 20px 0 20px 45px;
+}
+.slider img {
+  object-fit: contain;
+}
